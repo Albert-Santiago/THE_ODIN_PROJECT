@@ -1,0 +1,55 @@
+.header  {
+  font-family: monospace;
+  background: papayawhip;
+  display: flex;
+  justify-content: space-between;
+  height: 65px;
+}
+
+.logo {
+  font-size: 48px;
+  font-weight: 900;
+  color: tomato;
+  background: white;
+  padding: 4px 32px;
+}
+
+ul {
+  /* this removes the dots on the list items*/
+  list-style-type: none;
+}
+
+a {
+  font-size: 22px;
+  background: white;
+  padding: 8px;
+  /* this removes the line under the links */
+  text-decoration: none;
+}
+.left-links {
+  margin-top: 5px ;
+  margin-bottom: px;
+}
+
+.logo {
+ border-bottom: 5px solid papayawhip;
+ border-top: 5px solid papayawhip;
+ margin-top: -5px;
+
+}
+
+
+.left-links ul {
+  display: flex;
+  gap: 10px;
+}
+
+
+
+
+.right-links ul {
+  display: flex;
+  gap: 10px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
