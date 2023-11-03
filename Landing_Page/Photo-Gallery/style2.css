@@ -1,0 +1,45 @@
+body { 
+    margin: 0;
+    font-family: sans-serif;
+    height: 200vh;
+    
+}
+a {
+    text-decoration: none;
+
+}
+a div {
+    color: white;
+}
+
+
+
+nav {
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0px;
+    background-color: #35155D;
+    color: white;
+}
+
+
+nav .header-logo {
+    font-weight: bold;
+    font-size: 45px;
+    /* font-family: 'Abril Fatface', cursive; */
+    /* font-family: 'Alumni Sans Inline One', cursive; */
+    /* font-family: 'Bungee Inline', cursive; */
+    /* font-family: 'Indie Flower', cursive; */
+    /* font-family: 'Lugrasimo', cursive; */
+    /* font-family: 'Merriweather', serif; */
+    /* font-family: 'Nunito Sans', sans-serif; */
+    /* font-family: 'Orbitron', sans-serif; */
+    /* font-family: 'Preahvihear', sans-serif; */
+    /* font-family: 'Shadows Into Light', cursive; */
+    font-family: 'Tilt Prism', cursive;
+}
+
+
+/* photo gallery */
