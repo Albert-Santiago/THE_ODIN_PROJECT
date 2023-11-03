@@ -11,7 +11,7 @@
 
 | Project    | Topic              |                                                      Repository                                                    | Live Preview |
 |------------|--------------------|--------------------------------------------------------------------------------------------------------------------|--------------|
-|   Recipes  |  HTML Foundations  | [link]()                                                                                                           |              |
+|   Recipes  |  HTML Foundations  | [link]( https://albert-santiago.github.io/THE_ODIN_PROJECT/odin_recipes)                                           |              |
 |     2      |                    |                                                                                                                    |              |
 |     3      |                    |                                                                                                                    |              | 
 |     4      |                    |                                                                                                                    |              | 
