@@ -11,7 +11,7 @@
 
 | Project    | Topic              |                                                      Repository                                                    | Live Preview                                                                          |
 |------------|--------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|   Recipes  |  HTML Foundations  | [link]([ ](https://github.com/Albert-Santiago/THE_ODIN_PROJECT/tree/main/odin_recipes))                            |     [Demo]( https://albert-santiago.github.io/THE_ODIN_PROJECT/odin_recipes)          |
+|   Recipes  |  HTML Foundations  | [link]( https://github.com/Albert-Santiago/THE_ODIN_PROJECT/tree/main/odin_recipes)                            |     [Demo]( https://albert-santiago.github.io/THE_ODIN_PROJECT/odin_recipes)          |
 |     2      |                    |                                                                                                                    |                                                                                       |
 |     3      |                    |                                                                                                                    |                                                                                       | 
 |     4      |                    |                                                                                                                    |                                                                                       | 
